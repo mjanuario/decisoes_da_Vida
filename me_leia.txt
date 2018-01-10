@@ -1,0 +1,21 @@
+Para baixar os arquivos da pasta voce precisa apenas seguir os seguintes passos:
+
+Na meia altura superior da página anterior (https://github.com/mjanuario/decisoes_da_Vida), existe um botao (provavelmente verde) escrito "Clone or download". Clique nele, e selecione "Download ZIP"
+Use o programa descompactador de sua preferencia (p.e. WinRAR) para descompactar o download. Todos os arquivos devem estar prontos para uso.
+
+Lista de Arquivos contidos na pasta:
+
+figura1_ilhas.pptx
+figura1_ilhas.tiff
+modelos_TAP.pptx
+modelos_TAP.tiff
+MPA1.dcox
+MPA2.dcox
+MPA3.dcox
+MPA4.dcox
+MPA5.dcox
+MPA6.dcox
+MPA7.dcox
+tabelas1e2.xlsx
+
+Em caso de dúvidas, me contate: matheus.januario.sousa@usp.br
